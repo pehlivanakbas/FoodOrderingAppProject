@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FoodOrderingAppProject</string>
+    <string name="price">YEmek ücreti</string>
+    <string name="order_now">Sipariş ver</string>
+    <string name="back">Geri</string>
+    <string name="clear_cart">Sepeti Boşalt</string>
+    <string name="total">Toplam</string>
+    <string name="final_amount">son toplam tutar</string>
+    <string name="vat">VAT??</string>
+    <string name="cart_empty">SEpet Boş</string>
 </resources>
